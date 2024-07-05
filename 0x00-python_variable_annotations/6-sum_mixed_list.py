@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 contains a function that takes a list of floats and returns
 their sum as a float
